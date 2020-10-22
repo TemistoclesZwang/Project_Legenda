@@ -1,5 +1,5 @@
 #Autor Temistocles Zwang
-#Não esqueça de modificar o diretório de acord com seu uso
+#Não esqueça de modificar o diretório de acordo com seu uso
 import re
 import os
 
