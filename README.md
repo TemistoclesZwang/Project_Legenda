@@ -6,4 +6,4 @@ obsevação: Alguns poucos filmes podem apresentar caracteres especiais em seu d
 
 observação2: Se você for aluno dessa disciplina do IFPI no ano de 2020, os assuntos que não foram vistos em aula e estão presentes nesse script são: expressões regulares e Codificação de caracteres(encoding) exemplo: UTF-8 caso tenha interesse em compreender melhor.
 
-
+Vídeo https://www.youtube.com/watch?v=yUI1-JZ5W8U
