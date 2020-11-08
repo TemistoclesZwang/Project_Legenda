@@ -1,5 +1,5 @@
 # :film_projector: Project_Legenda
-## :movie_camera: O presente script utiliza os conhecimentos adquiridos na disciplina de algoritmo (IFPI,2020, primeiro período) para analisar legendas de filmes (.srt).
+## :movie_camera: O presente script é fruto de um projeto pessoal afim de colocar em prática os conhecimentos adquiridos na disciplina de algoritmo (IFPI,2020, primeiro período) para analisar legendas de filmes (.srt).
 
 :sparkles: Ele retorna um dicionário com as palavras mais usadas organizadas em ordem decrescente de acordo com suas ocorrências.
 
