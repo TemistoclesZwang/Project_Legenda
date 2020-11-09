@@ -3,7 +3,7 @@
 import re
 import os
 
-
+###
 def main(nome_do_arquivo):
    diretorio = os.getcwd()
    verificar = os.path.exists(nome_do_arquivo)
